@@ -5,4 +5,4 @@ Projetos do curso de POWER BI da Udemy
 
 O projeto utilizou a base de dados SALARIOS para criar a dashboard
 
-![DASHBOARD](https://github.com/LarissaSilveiraBonifacio/POWERBI/assets/48017842/2d6604b9-3b47-4b1f-841e-4512d75bc5d2)
+
