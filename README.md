@@ -7,4 +7,8 @@ Projetos do curso de POWER BI da Udemy
 
 O projeto utilizou a base de dados SALARIOS para criar a dashboard com algumas analises da RH da empresa criada
 
+<h3> PROJETO 2 - INDICADORES  </h3>
+
+O projeto utilizou a base de dados INDICADORES para criar a dashboard com algumas analises de INDIDCADORES DE VENDAS da empresa criada
+
 
