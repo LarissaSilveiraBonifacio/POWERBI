@@ -9,3 +9,4 @@ O projeto utilizou a base de dados LOCADORA DE VEICULOS para criar a dashboard c
 Uso de DAX e Power Query para tratar os dados e ajudar na performance 
 
 
+![resultado](https://github.com/LarissaSilveiraBonifacio/POWERBI/assets/48017842/18d21219-1da4-4325-b019-9ca653be5698)
