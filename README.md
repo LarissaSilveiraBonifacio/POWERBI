@@ -17,6 +17,11 @@ Uso de DAX e Power Query para tratar os dados e ajudar na performance
 O projeto utilizou a base de dados LOCADORA DE VEICULOS para criar a dashboard com algumas analises de uma LOCADORA DE VEICULOS
 Uso de DAX e Power Query para tratar os dados e ajudar na performance 
 
+<h3> PROJETO 4  - CONTROLE DE METAS  </h3>
+
+O projeto utilizou a base de dados METAS 2017/2018/2019 para criar a dashboard com algumas analises de uma EMPRESA PARA ENTENDER/CONTROLAR/COMPARAR AS METAS DOS ANOS
+Uso de DAX, Power Query, Modelagem para tratar os dados e ajudar na performance 
+
 
 
 
